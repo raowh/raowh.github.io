@@ -13,14 +13,15 @@ redirect_from:
 基本信息
 ======
 1.姓名：饶文浩                        
-                  1.政治面貌：中共党员
+1.政治面貌：中共党员
 1.学历：硕士研究生                    
-                  1.籍    贯：安徽省铜陵市
+1.籍    贯：安徽省铜陵市
 1.邮箱：raowh@mail.nwpu.edu.cn        
-                  1.联系方式：155-3539-2818
+1.联系方式：155-3539-2818
 1.研究方向：生产调度与优化             
 1.目标岗位：机械类、智能制造类
 1.导师：孙树栋教授（三秦学者，全国高校制造自动化研究会西北分会理事长）
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
